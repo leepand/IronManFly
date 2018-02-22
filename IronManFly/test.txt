@@ -1,0 +1,1 @@
+Microservices- Independantly deployable programmes that act as components in a larger network.

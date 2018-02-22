@@ -1,0 +1,11 @@
+# config.yml
+
+version: 1.0
+token: "abcd1234"
+functions:
+  sum_test_py:
+    path: "/sum_test"
+    function: "sum_test_py.sum_test"
+  sum_test_py2:
+    path: "/sum_test2"
+    function: "sum_test_py2.sum_test2"

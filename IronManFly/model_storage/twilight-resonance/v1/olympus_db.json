@@ -1,0 +1,1 @@
+{"models": {"1": {"last_deployed": 1514307903147.124, "name": "small-sun", "model_desc": "defalut description", "activated": true, "version": 1.0, "path": "/Users/leepand/Downloads/BigRLab_APIs/flask_lab/mlaas_flask/IronMan.v2.0/IronManFly/model_storage/small-sun/v1", "model_func": ["simple.predict"]}}, "_default": {}}
